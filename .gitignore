@@ -1,0 +1,13 @@
+# package directories
+node_modules
+jspm_packages
+.build
+
+# Serverless directories
+.serverless
+
+# IntelliJ IDEA
+.idea
+
+# Environment Variables
+.env

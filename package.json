@@ -1,0 +1,21 @@
+{
+  "name": "scanner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chrome-launcher": "^0.10.2",
+    "puppeteer-core": "^1.8.0",
+    "serverless-plugin-chrome": "^1.0.0-55",
+    "superagent": "^3.8.3"
+  },
+  "devDependencies": {
+    "@serverless-chrome/lambda": "^1.0.0-55"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Shih-Kai Lin",
+  "license": "ISC"
+}

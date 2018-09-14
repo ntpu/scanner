@@ -1,0 +1,1 @@
+serverless invoke local --function scan --path data.json
